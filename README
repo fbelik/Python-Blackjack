@@ -1,0 +1,4 @@
+A Blackjack game made in python with classes made for a card, a deck,
+a hand, a player, the dealer, an AI, and the game itself. A game can
+be created by initializing a Blackjack object, then calling playRound
+multiple times or calling playGame.
